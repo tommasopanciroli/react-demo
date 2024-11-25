@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
+
+.btn {
+  background-color: violet;
+  color: red;
+  border-radius: 30px;
+  font-size: 2em;
+}
